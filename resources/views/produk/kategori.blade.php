@@ -28,7 +28,7 @@
  	 	      	 	 	 	 	 	<form method="post" action="{{ route('kategori.destroy',$p->id) }}"> 
  	 	      	 	 	 	 	 	 	{{ csrf_field() }}  	 	      	 	 	 	 	 	 	
  	 	      	 	 	 	 	 	 	<input type="hidden" name="_method" value="DELETE"> 
- 	 	      	 	 	 	 	 	 	<button class="btn btn-danger" type="submit">Hapus</button> 
+ 	 	      	 	 	 	 	 	 	<button class="btn btn-danger" type="submit">Hapus GANSS!</button> 
  	 	      	 	 	 	 	 	</form> 
  	 	      	 	 	 	 	</td> 
  	 	      	 	 	 @endforeach
