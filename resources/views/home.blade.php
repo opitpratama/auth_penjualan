@@ -19,7 +19,7 @@
     <p>
 </div>
 
-                   <a href="{{url('/produk')}}" class="btn btn-outline-primary">Produk</a>
+                   <a href="{{url('/produk')}}" class="btn btn-outline-primary">ProdukSSS</a>
                    <a href="{{ url('/kategori') }}" class="btn btn-outline-success">Kategoriss</a>
 <p></p>
 
